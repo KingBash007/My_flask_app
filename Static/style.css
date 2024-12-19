@@ -1,0 +1,77 @@
+/* General body styling */
+
+body {
+
+    font-family: Arial, sans-serif;
+    
+    margin: 0;
+    
+    padding: 0;
+    
+    line-height: 1.6;
+    
+    background-color: #f9f9f9;
+    
+    color: #333;
+    
+    }
+    
+    /* Header styling */
+    
+    header {
+    
+    background-color: #4CAF50;
+    
+    color: white;
+    
+    padding: 10px 0;
+    
+    text-align: center;
+    
+    }
+    
+    /* Main content styling */
+    
+    main {
+    
+    margin: 20px;
+    
+    text-align: center;
+    
+    }
+    
+    /* Navigation links styling */
+    
+    nav a {
+    
+    color: #4CAF50;
+    
+    text-decoration: none;
+    
+    font-weight: bold;
+    
+    margin: 0 10px;
+    
+    }
+    
+    nav a:hover {
+    
+    color: #45a049;
+    
+    }
+    
+    /* Footer styling */
+    
+    footer {
+    
+    background-color: #333;
+    
+    color: white;
+    
+    text-align: center;
+    
+    padding: 10px 0;
+    
+    margin-top: 20px;
+    
+    }
